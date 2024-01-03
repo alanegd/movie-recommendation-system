@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://alangalavis.pythonanywhere.com/">
+    <img alt="Movie Recommendation System" src="static/images/logo.png" width="70" />
+  </a>
+</p>
+
 <h1 align="center">
   Movie Recommendation System
 </h1>
