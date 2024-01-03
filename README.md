@@ -13,7 +13,7 @@ A web application made with Flask. Enter the name of a movie you like and the si
 
 ## Technologies used
 
-- [Flask][https://flask.palletsprojects.com/en/3.0.x/]: Web application framework written in Python.
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/): Web application framework written in Python.
 
 ## Contact
 * GitHub: [https://github.com/alanegd](https://github.com/alanegd)
